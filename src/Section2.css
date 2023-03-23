@@ -1,0 +1,36 @@
+.r2{
+    margin-top: 100px;
+}
+.what-title{
+    font-size: 2rem;
+    line-height: 1.2rem;
+    font-weight: 700;
+    color: #000;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.r2 .col1,
+.r2 .col2,
+.r2 .col3{
+    border-radius: 5px;
+    border: 2px solid #0b0c0e;
+    background-color: #212529;
+    padding: 20px 15px;
+
+}
+.r2 .col1 .p-title,
+.r2 .col2 .p-title,
+.r2 .col3 .p-title{
+    color: #fff;
+    font-size: 1rem;
+    line-height: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.p-desc{
+    margin-top: 15px;
+    margin-bottom: 0;
+    color: #fff;
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+}

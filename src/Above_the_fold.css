@@ -1,0 +1,40 @@
+.bcg-atf{
+    background: url('/public/darken-atf-frontend-dev.jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 200px 0;
+}
+.h1-atf{
+    font-size: 3rem;
+    line-height: 1.2rem;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.p1-atf{
+    font-size: 1.5rem;
+    line-height: 1.2rem;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.a-atf{
+    padding: 10px 25px;
+    background-color: #212529;
+    border-radius: 5px;
+    font-size: 1rem;
+    line-height: 1.2rem;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0px;
+    text-decoration: none;
+}
+.a-atf:hover{
+    text-decoration: underline;
+    color: #fff;
+}
+.a-atf:active,
+.a-atf:focus{
+    text-decoration: none;
+    color: #fff;
+}

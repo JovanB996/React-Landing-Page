@@ -1,0 +1,30 @@
+.r1{
+    margin-top: 100px;
+}
+.who-title{
+    font-size: 2rem;
+    line-height: 1.2rem;
+    font-weight: 700;
+    color: #000;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.center-vh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.r1 .col1 p{
+    border-radius: 5px;
+    border: 2px solid #a8a8a8;
+    background-color: #c0c0c0;
+    padding: 20px 15px;
+    color: #fff;
+    font-size: 1rem;
+    line-height: 1.2rem;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+.r1 .col2 img{
+    width: 100%;
+}
